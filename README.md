@@ -16,4 +16,4 @@
 
 ## サイト
 
-[サイトはこちら](https://tororomeshi.github.io/live-style/)
+[サイトはこちら](https://tororomeshi.github.io/live-style/index.html)
